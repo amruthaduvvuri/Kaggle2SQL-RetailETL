@@ -1,5 +1,5 @@
 
-# 🔄 Retail Orders ETL & SQL Analytics Project
+# 🔄 Retail Orders ETL & SQL Analytics Project - DataMartify
 
 This project is an **end-to-end ETL (Extract, Transform, Load)** pipeline built using Python and MySQL. It automates the process of extracting a retail dataset via Kaggle API, transforming it using `pandas`, and loading it into a MySQL database. Post-load, business-critical SQL queries are executed to derive key insights.
 
